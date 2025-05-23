@@ -60672,6 +60672,9 @@
 	<programme channel="黑莓电影" start="20250523205100 +0800" stop="20250523225600 +0800">
 		<title lang="zh">扫毒3：人在天涯</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250523225600 +0800" stop="20250523002100 +0800">
+		<title lang="zh">鲨卷风4</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61328,6 +61331,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250523215500 +0800" stop="20250523224800 +0800">
 		<title lang="zh">39_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250523224800 +0800" stop="20250523234100 +0800">
+		<title lang="zh">01_黑土无言</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -62067,6 +62073,9 @@
 	<programme channel="newtv怡伴健康" start="20250523222400 +0800" stop="20250523225400 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第19期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250523225400 +0800" stop="20250523234600 +0800">
+		<title lang="zh">湖南名将vs北京源莱慧热爱 第7局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -62312,6 +62321,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250523223100 +0800" stop="20250523225600 +0800">
 		<title lang="zh">存粮备战 赖清德孤注一掷</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250523225600 +0800" stop="20250523232200 +0800">
+		<title lang="zh">台湾光复79周年 赖清德为何逃避？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -62564,6 +62576,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250523211800 +0800" stop="20250523225200 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250523225200 +0800" stop="20250523001700 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
