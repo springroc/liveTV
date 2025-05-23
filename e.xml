@@ -49659,6 +49659,9 @@
 	<programme channel="纯享4K" start="20250523215600 +0800" stop="20250523224500 +0800">
 		<title lang="zh">大地之上4K 第2集 大漠回响</title>
 	</programme>
+	<programme channel="纯享4K" start="20250523224500 +0800" stop="20250523231400 +0800">
+		<title lang="zh">好吃客4K 重庆</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -61023,6 +61026,9 @@
 	<programme channel="newtv超级综艺" start="20250523214700 +0800" stop="20250523224200 +0800">
 		<title lang="zh">艺览天下</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250523224200 +0800" stop="20250523232700 +0800">
+		<title lang="zh">37_暴风眼</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -61128,6 +61134,9 @@
 	<programme channel="newtv超级电影" start="20250523210300 +0800" stop="20250523223700 +0800">
 		<title lang="zh">电影《生死96小时》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250523223700 +0800" stop="20250523011600 +0800">
+		<title lang="zh">电影《变形金刚4：绝迹重生》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -61220,6 +61229,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250523215700 +0800" stop="20250523223800 +0800">
 		<title lang="zh">10_漫长的季节</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250523223800 +0800" stop="20250523002600 +0800">
+		<title lang="zh">11_漫长的季节</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61538,6 +61550,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250523215500 +0800" stop="20250523224400 +0800">
 		<title lang="zh">27_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250523224400 +0800" stop="20250523233100 +0800">
+		<title lang="zh">28_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61883,6 +61898,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250523211800 +0800" stop="20250523224500 +0800">
 		<title lang="zh">时间暗局</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250523224500 +0800" stop="20250523233400 +0800">
+		<title lang="zh">中元益宝牌灵芝孢子油-春节版-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -62292,6 +62310,9 @@
 	<programme channel="newtv军事评论" start="20250523220600 +0800" stop="20250523223100 +0800">
 		<title lang="zh">民调再创新低 赖清德耍横摆烂</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250523223100 +0800" stop="20250523225600 +0800">
+		<title lang="zh">存粮备战 赖清德孤注一掷</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62394,6 +62415,9 @@
 	<programme channel="newtv炫舞未来" start="20250523213600 +0800" stop="20250523223200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250523223200 +0800" stop="20250523231700 +0800">
+		<title lang="zh">第1集：流转</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -62483,6 +62507,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250523215500 +0800" stop="20250523223100 +0800">
 		<title lang="zh">22_想见你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250523223100 +0800" stop="20250523231100 +0800">
+		<title lang="zh">23_想见你</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
